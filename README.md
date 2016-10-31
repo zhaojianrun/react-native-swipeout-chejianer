@@ -5,7 +5,9 @@ iOS-style swipeout buttons that appear from behind a component
 
 ## Installation
 ```
-npm install --save react-native-swipeout
+npm install --save +本组件地址
+如：
+npm install --save https://github.com/zhaojianrun/react-native-swipeout-chejianer.git
 ```
 
 ## Usage example
